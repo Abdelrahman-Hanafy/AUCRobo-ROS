@@ -1,0 +1,3 @@
+/home/abdelrahman/AucRobotics/Day2/tasks/src/CMakeFiles/rebuild_cache.dir
+/home/abdelrahman/AucRobotics/Day2/tasks/src/CMakeFiles/name.dir
+/home/abdelrahman/AucRobotics/Day2/tasks/src/CMakeFiles/edit_cache.dir
