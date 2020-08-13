@@ -26,3 +26,22 @@ $ rm -f devel
 $ rm -f build
 $ catkin_make
 // i had no errors
+
+#runing python  file 
+$ mkdir my-pkg/script
+$ cd script
+$ touch demo.py
+$ gedit demo.py
+// i wrote my python script
+$ ^c
+$ chmod +x demo.py \\to make it excutable
+$ rosrun my-pkg demo.py
+
+#runing cpp file 
+$ cd my-pkg/src
+$ touch demo.cpp
+$ gedit demo.cpp
+// wrote cpp script
+$ g++ demo.cpp -o demo
+$ rosrun my-pkg demo
+
