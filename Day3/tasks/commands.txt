@@ -19,13 +19,13 @@ $ gedit src/pkgs/first-pkg/package.xml
 $ ^c
 
 # cloning the repo
-$ cd AH-ws/src
+$ cd ~/AucRobotics
 $ git clone https://github.com/khaledgabr77/AUC-Robotics-Summer-Camp
 $ cd AUC-Robotics-Summer-Camp/Day3/catkin_ws
 $ rm -f devel 
 $ rm -f build
 $ catkin_make
-// i had no errors
+// i had some erros and its solved by uncommenting some lines on CMake file and adding some lines to it and pakage.xml
 
 #runing python  file 
 $ mkdir my-pkg/script
