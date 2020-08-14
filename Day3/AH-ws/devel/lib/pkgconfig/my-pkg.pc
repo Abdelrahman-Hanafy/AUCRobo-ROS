@@ -1,0 +1,8 @@
+prefix=/home/abdelrahman/AucRobotics/Day3/AH-ws/devel
+
+Name: my-pkg
+Description: Description of my-pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

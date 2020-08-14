@@ -1247,6 +1247,24 @@ clean: pkgs/first-pkg/CMakeFiles/std_msgs_generate_messages_py.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory my-pkg
+
+# Convenience name for "all" pass in the directory.
+my-pkg/all:
+
+.PHONY : my-pkg/all
+
+# Convenience name for "clean" pass in the directory.
+my-pkg/clean:
+
+.PHONY : my-pkg/clean
+
+# Convenience name for "preinstall" pass in the directory.
+my-pkg/preinstall:
+
+.PHONY : my-pkg/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

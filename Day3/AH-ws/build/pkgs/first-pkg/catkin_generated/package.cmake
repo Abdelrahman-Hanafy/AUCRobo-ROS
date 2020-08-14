@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "first-pkg")
 set(first-pkg_VERSION "0.0.0")
-set(first-pkg_MAINTAINER "abdelrahman <abdelrahman@todo.todo>")
+set(first-pkg_MAINTAINER "Abdelrahman Mohamed <Abdelrahman.m.moustafa@gmail.com>")
 set(first-pkg_PACKAGE_FORMAT "2")
 set(first-pkg_BUILD_DEPENDS "roscpp" "rospy" "sensor_msgs" "std_msgs")
 set(first-pkg_BUILD_EXPORT_DEPENDS "roscpp" "rospy" "sensor_msgs" "std_msgs")

@@ -13,9 +13,13 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin/catkin_generated/version/package.cmake"
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
+  "my-pkg/catkin_generated/ordered_paths.cmake"
+  "my-pkg/catkin_generated/package.cmake"
   "pkgs/first-pkg/catkin_generated/ordered_paths.cmake"
   "pkgs/first-pkg/catkin_generated/package.cmake"
   "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/CMakeLists.txt"
+  "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/my-pkg/CMakeLists.txt"
+  "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/my-pkg/package.xml"
   "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/pkgs/first-pkg/CMakeLists.txt"
   "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/pkgs/first-pkg/package.xml"
   "/opt/ros/melodic/share/catkin/cmake/../package.xml"
@@ -181,6 +185,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "pkgs/first-pkg/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "my-pkg/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

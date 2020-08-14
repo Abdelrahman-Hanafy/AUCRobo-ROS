@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/abdelrahman/AucRobotics/Day3/AH-ws/build/gtest/cmake_install.cmake")
   include("/home/abdelrahman/AucRobotics/Day3/AH-ws/build/pkgs/first-pkg/cmake_install.cmake")
+  include("/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/cmake_install.cmake")
 
 endif()
 

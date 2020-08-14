@@ -1,0 +1,2 @@
+set(light_robot_MESSAGE_FILES "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/msg/auc.msg")
+set(light_robot_SERVICE_FILES "/home/abdelrahman/AucRobotics/Day3/AH-ws/src/AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/srv/AddTwoNum.srv")

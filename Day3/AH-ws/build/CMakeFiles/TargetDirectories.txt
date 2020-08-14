@@ -67,3 +67,10 @@
 /home/abdelrahman/AucRobotics/Day3/AH-ws/build/pkgs/first-pkg/CMakeFiles/std_msgs_generate_messages_nodejs.dir
 /home/abdelrahman/AucRobotics/Day3/AH-ws/build/pkgs/first-pkg/CMakeFiles/roscpp_generate_messages_nodejs.dir
 /home/abdelrahman/AucRobotics/Day3/AH-ws/build/pkgs/first-pkg/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/install/strip.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/edit_cache.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/list_install_components.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/test.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/install/local.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/rebuild_cache.dir
+/home/abdelrahman/AucRobotics/Day3/AH-ws/build/my-pkg/CMakeFiles/install.dir
