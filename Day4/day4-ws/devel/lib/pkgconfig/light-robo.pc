@@ -1,0 +1,8 @@
+prefix=/home/abdelrahman/AucRobotics/Day4/day4-ws/devel
+
+Name: light-robo
+Description: Description of light-robo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
