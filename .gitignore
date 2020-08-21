@@ -1,0 +1,923 @@
+AUC-Robotics-Summer-Camp/AUC Robotics Summer Camp
+AUC-Robotics-Summer-Camp/Day4 /Nodes/pub (ANS).py
+AUC-Robotics-Summer-Camp/Day4 /Nodes/pub.py
+AUC-Robotics-Summer-Camp/Day4 /Nodes/sub.py
+AUC-Robotics-Summer-Camp/Day4 /Nodes/sub(ANS).py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/.catkin_workspace
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/.built_by
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CATKIN_IGNORE
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_make.cache
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeCache.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CTestConfiguration.ini
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CTestCustom.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/Makefile
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/cmake.check_cache
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/CMakeError.log
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/CMakeOutput.log
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/CMakeRuleHashes.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/Makefile.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/Makefile2
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/TargetDirectories.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CMakeCCompiler.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CMakeCXXCompiler.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CMakeDetermineCompilerABI_C.bin
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CMakeDetermineCompilerABI_CXX.bin
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CMakeSystem.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CompilerIdC/a.out
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CompilerIdC/CMakeCCompilerId.c
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CompilerIdCXX/a.out
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/3.18.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/clean_test_results.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/clean_test_results.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/clean_test_results.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/download_extra_data.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/download_extra_data.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/download_extra_data.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/download_extra_data.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/doxygen.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/doxygen.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/doxygen.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/doxygen.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/run_tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/run_tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/run_tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/run_tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/CMakeFiles/tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/_setup_util.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/.rosinstall
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/env.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/local_setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/local_setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/atomic_configure/setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin/catkin_generated/version/package.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/env_cached.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/generate_cached_setup.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/order_packages.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/order_packages.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/setup_cached.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/_setup_util.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/.rosinstall
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/env.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/local_setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/local_setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/installspace/setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/stamps/Project/_setup_util.py.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/stamps/Project/interrogate_setup_dot_py.py.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/stamps/Project/order_packages.cmake.em.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/catkin_generated/stamps/Project/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/CMakeFiles/gmock_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/Makefile
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_AddTwoNum.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/_light_robot_generate_messages_check_deps_auc.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/actionlib_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gencpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gencpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gencpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gencpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_geneus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_geneus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_geneus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_geneus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genlisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genlisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genlisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genlisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gennodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gennodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gennodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_gennodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genpy.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genpy.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genpy.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/light_robot_genpy.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/CXX.includecache
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/listener.dir/src/listener.cpp.o
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/roscpp_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/std_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/build.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/CXX.includecache
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/depend.internal
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/depend.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/flags.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/link.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/progress.make
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/CMakeFiles/talker.dir/src/talker.cpp.o
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/light_robot-msg-extras.cmake.develspace.in
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/light_robot-msg-extras.cmake.installspace.in
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/ordered_paths.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/package.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/pkg.develspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/pkg.installspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/installspace/light_robot-msg-extras.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/installspace/light_robot-msg-paths.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/installspace/light_robot.pc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/installspace/light_robotConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/installspace/light_robotConfig.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/stamps/light_robot/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/stamps/light_robot/pkg-genmsg.cmake.em.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/catkin_generated/stamps/light_robot/pkg.pc.em.stamp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/cmake/light_robot-genmsg-context.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/build/light_robot/cmake/light_robot-genmsg.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/_setup_util.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/.built_by
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/.catkin
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/.rosinstall
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/cmake.lock
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/env.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/local_setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/local_setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/setup.bash
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/setup.sh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/setup.zsh
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/include/light_robot/AddTwoNum.h
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/include/light_robot/AddTwoNumRequest.h
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/include/light_robot/AddTwoNumResponse.h
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/include/light_robot/auc.h
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/light_robot/listener
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/light_robot/talker
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/pkgconfig/light_robot.pc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/__init__.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/__init__.pyc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/msg/__init__.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/msg/__init__.pyc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/msg/_auc.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/msg/_auc.pyc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/srv/__init__.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/srv/__init__.pyc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/srv/_AddTwoNum.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/lib/python2.7/dist-packages/light_robot/srv/_AddTwoNum.pyc
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/msg/_package_auc.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/msg/_package.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/msg/auc.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/msg/light_robot-msg.asd
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/srv/_package_AddTwoNum.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/srv/_package.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/srv/AddTwoNum.lisp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/common-lisp/ros/light_robot/srv/light_robot-srv.asd
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/gennodejs/ros/light_robot/_index.js
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/gennodejs/ros/light_robot/msg/_index.js
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/gennodejs/ros/light_robot/msg/auc.js
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/gennodejs/ros/light_robot/srv/_index.js
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/gennodejs/ros/light_robot/srv/AddTwoNum.js
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/light_robot/cmake/light_robot-msg-extras.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/light_robot/cmake/light_robot-msg-paths.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/light_robot/cmake/light_robotConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/light_robot/cmake/light_robotConfig.cmake
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/roseus/ros/light_robot/manifest.l
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/roseus/ros/light_robot/msg/auc.l
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/devel/share/roseus/ros/light_robot/srv/AddTwoNum.l
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/package.xml
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/msg/auc.msg
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/AddTwoClient.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/AddTwoServer.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/aucmsg_subscriber.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/ausmsg_publisher.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/Publish.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/scripts/subscriber.py
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/src/listener.cpp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/src/talker.cpp
+AUC-Robotics-Summer-Camp/Day4 /catkin_ws/src/light_robot/srv/AddTwoNum.srv
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/.catkin_workspace
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/.built_by
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CATKIN_IGNORE
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_make.cache
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeCache.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CTestConfiguration.ini
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CTestCustom.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/cmake.check_cache
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/CMakeError.log
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/CMakeOutput.log
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/CMakeRuleHashes.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/feature_tests.bin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/feature_tests.c
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/feature_tests.cxx
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/Makefile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/Makefile2
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/TargetDirectories.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CMakeSystem.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CompilerIdC/a.out
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CMakeCCompiler.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CMakeSystem.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CompilerIdC/a.out
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/clean_test_results.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/clean_test_results.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/clean_test_results.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/download_extra_data.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/download_extra_data.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/download_extra_data.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/download_extra_data.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/doxygen.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/doxygen.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/doxygen.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/doxygen.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/run_tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/run_tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/run_tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/run_tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/CMakeFiles/tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/_setup_util.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/.rosinstall
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/env.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/local_setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/local_setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/atomic_configure/setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin/catkin_generated/version/package.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/env_cached.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/generate_cached_setup.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/order_packages.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/order_packages.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/setup_cached.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/_setup_util.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/.rosinstall
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/env.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/local_setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/local_setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/installspace/setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/stamps/Project/_setup_util.py.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/stamps/Project/interrogate_setup_dot_py.py.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/stamps/Project/order_packages.cmake.em.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/catkin_generated/stamps/Project/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/_catkin_empty_exported_target.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/_catkin_empty_exported_target.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/roscpp_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/CMakeFiles/std_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/ordered_paths.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/package.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/pkg.develspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/pkg.installspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/installspace/gazebo_bot.pc
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/installspace/gazebo_botConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/installspace/gazebo_botConfig.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/stamps/gazebo_bot/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gazebo_bot/catkin_generated/stamps/gazebo_bot/pkg.pc.em.stamp
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/CMakeFiles/gmock_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/_setup_util.py
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/.built_by
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/.catkin
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/.rosinstall
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/cmake.lock
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/env.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/local_setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/local_setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/setup.bash
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/setup.sh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/setup.zsh
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/lib/pkgconfig/gazebo_bot.pc
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/share/gazebo_bot/cmake/gazebo_botConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/devel/share/gazebo_bot/cmake/gazebo_botConfig.cmake
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/package.xml
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/launch/world.launch
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/launch/xx.launch
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/launch/zz.launch
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/model/auc_robot/auc_robot/model.config
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/model/auc_robot/auc_robot/model.sdf
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/worlds/auc_world.world
+AUC-Robotics-Summer-Camp/Day5/khaled_ws/src/gazebo_bot/worlds/empty.world
+AUC-Robotics-Summer-Camp/Day6/auc_ws/.catkin_workspace
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/.built_by
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CATKIN_IGNORE
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_make.cache
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeCache.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CTestConfiguration.ini
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CTestCustom.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/cmake.check_cache
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/CMakeError.log
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/CMakeOutput.log
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/CMakeRuleHashes.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/feature_tests.bin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/feature_tests.c
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/feature_tests.cxx
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/Makefile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/Makefile2
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/TargetDirectories.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CMakeSystem.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CompilerIdC/a.out
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CMakeCCompiler.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CMakeSystem.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CompilerIdC/a.out
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/clean_test_results.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/clean_test_results.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/clean_test_results.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/download_extra_data.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/download_extra_data.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/download_extra_data.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/download_extra_data.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/doxygen.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/doxygen.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/doxygen.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/doxygen.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/run_tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/run_tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/run_tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/run_tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/tests.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/tests.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/tests.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/CMakeFiles/tests.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/_setup_util.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/.rosinstall
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/env.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/local_setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/local_setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/atomic_configure/setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/roscpp_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_cpp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_eus.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_lisp.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_nodejs.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_py.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/CMakeFiles/std_msgs_generate_messages_py.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/ordered_paths.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/package.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/pkg.develspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/pkg.installspace.context.pc.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/installspace/auc_robot.pc
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/installspace/auc_robotConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/installspace/auc_robotConfig.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/stamps/auc_robot/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/auc_robot/catkin_generated/stamps/auc_robot/pkg.pc.em.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin/catkin_generated/version/package.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/env_cached.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/generate_cached_setup.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/order_packages.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/order_packages.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/setup_cached.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/_setup_util.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/.rosinstall
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/env.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/local_setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/local_setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/installspace/setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/stamps/Project/_setup_util.py.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/stamps/Project/interrogate_setup_dot_py.py.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/stamps/Project/order_packages.cmake.em.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/catkin_generated/stamps/Project/package.xml.stamp
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/CMakeFiles/gmock_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/CMakeFiles/gmock_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/cmake_install.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CTestTestfile.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/Makefile
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/CMakeDirectoryInformation.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/progress.marks
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/build.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/depend.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/flags.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/link.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir/progress.make
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/_setup_util.py
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/.built_by
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/.catkin
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/.rosinstall
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/cmake.lock
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/env.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/local_setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/local_setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/local_setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/setup.bash
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/setup.sh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/setup.zsh
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/lib/pkgconfig/auc_robot.pc
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/share/auc_robot/cmake/auc_robotConfig-version.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/devel/share/auc_robot/cmake/auc_robotConfig.cmake
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/CMakeLists.txt
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/package.xml
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/launch/gazebo_robot.launch
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/launch/robot_description.launch
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/meshes/hokuyo.dae
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/urdf/basic_urdf.urdf
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/urdf/kuka_urdf.urdf
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/urdf/materials.xacro
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/urdf/mybot.gazebo
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/urdf/mybot.xacro
+AUC-Robotics-Summer-Camp/Day6/auc_ws/src/auc_robot/worlds/world.world
+Day3/.vscode/c_cpp_properties.json

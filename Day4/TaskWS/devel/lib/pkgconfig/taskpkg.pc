@@ -1,0 +1,8 @@
+prefix=/home/abdelrahman/AucRobotics/Day4/TaskWS/devel
+
+Name: taskpkg
+Description: Description of taskpkg
+Version: 0.0.0
+Cflags: -I/home/abdelrahman/AucRobotics/Day4/TaskWS/devel/include
+Libs: -L${prefix}/lib -ltaskpkg
+Requires: rospy std_msgs

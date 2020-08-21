@@ -1,0 +1,2 @@
+taskpkg
+-DCATKIN_DEVEL_PREFIX=/home/abdelrahman/AucRobotics/Day4/TaskWS/devel -DCMAKE_INSTALL_PREFIX=/home/abdelrahman/AucRobotics/Day4/TaskWS/install -G Unix Makefiles
