@@ -4,7 +4,7 @@ import rospy
 from taskpkg.msg import complexnum
 
 def callback(data):
-    rospy.loginfo("I hear {}".format(data))
+    rospy.loginfo("I hear {} + {} i".format(data.real,data.img))
 
 
 def listener():
