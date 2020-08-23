@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/abdelrahman/AucRobotics/book/agitrWS/devel -DCMAKE_INSTALL_PREFIX=/home/abdelrahman/AucRobotics/book/agitrWS/install -G Unix Makefiles
