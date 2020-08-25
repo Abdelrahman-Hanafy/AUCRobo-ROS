@@ -1,0 +1,8 @@
+prefix=/home/abdelrahman/AucRobotics/Day5/gazeboWS/devel
+
+Name: gazebopkg
+Description: Description of gazebopkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
