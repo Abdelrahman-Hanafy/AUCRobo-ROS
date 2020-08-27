@@ -1,0 +1,8 @@
+prefix=/home/abdelrahman/AucRobotics/Day6/robotWS/install
+
+Name: robotpkg
+Description: Description of robotpkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+robotpkg
+-DCATKIN_DEVEL_PREFIX=/home/abdelrahman/AucRobotics/Day6/robotWS/devel -DCMAKE_INSTALL_PREFIX=/home/abdelrahman/AucRobotics/Day6/robotWS/install -G Unix Makefiles
